@@ -5,8 +5,10 @@ Este projeto foi desenvolvido como parte da aula 26 da Turma Full Stack 2 (+praT
 ## Funcionalidades
 
 - Adição, subtração, multiplicação e divisão.
-- ![image](https://github.com/user-attachments/assets/fdd3cb51-fcd2-4a28-a51a-7091bfe2ba79)
-- ![image](https://github.com/user-attachments/assets/2f2b9d71-0ef9-46d8-9243-26e0669c3a8e)
+![image](https://github.com/user-attachments/assets/f33d56ce-f3b0-4222-b230-4d61be65e307)
+
+![image](https://github.com/user-attachments/assets/2888130a-d1d6-4734-97d0-6cbe516ee3c4)
+
 
 
 - Interface intuitiva com botões que simulam uma calculadora real.
